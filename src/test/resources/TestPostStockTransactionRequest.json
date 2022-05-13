@@ -1,0 +1,23 @@
+[
+    {
+      "blstcode": 99840,
+      "quantity": 2,
+      "price": 23.5,
+      "unit": "ADET",
+      "tax": 18
+    },
+    {
+      "blstcode": 99833,
+      "quantity": 3,
+      "price": 35.90,
+      "unit": "ADET",
+      "tax": 8
+    },
+    {
+      "blstcode": 99830,
+      "quantity": 1,
+      "price": 19,
+      "unit": "PAKET",
+      "tax": 18
+    }
+  ]

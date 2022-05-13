@@ -1,0 +1,53 @@
+{
+  "response": "ok",
+  "items": [
+    {
+      "blstcode": 99840,
+      "barcode": "8413240602088",
+      "buy_prices": [
+        {
+          "defination": "ALIŞ FİYATI -1",
+          "price": 29.9,
+          "id": 1
+        },
+        {
+          "defination": "ALIŞ FİYATI -2",
+          "price": 0,
+          "id": 2
+        },
+        {
+          "defination": "ALIŞ FİYATI -3",
+          "price": 0,
+          "id": 3
+        },
+        {
+          "defination": "ALIŞ FİYATI -4",
+          "price": 0,
+          "id": 4
+        }
+      ],
+      "sell_prices": [
+        {
+          "defination": "SATIŞ FİYATI -1",
+          "price": 59.5,
+          "id": 1
+        },
+        {
+          "defination": "SATIŞ FİYATI -2",
+          "price": 0,
+          "id": 2
+        },
+        {
+          "defination": "SATIŞ FİYATI -3",
+          "price": 0,
+          "id": 3
+        },
+        {
+          "defination": "SATIŞ FİYATI -4",
+          "price": 0,
+          "id": 4
+        }
+      ]
+    }
+  ]
+}
